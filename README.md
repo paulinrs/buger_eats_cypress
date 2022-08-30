@@ -38,10 +38,10 @@ Os testes automatizados têm a função principal de verificar se o sistema est�
 
 #### Organização do Projeto
 ```ruby
-   ├── .github                   
-     ├── workflows                       # Arquivos do Github Actions para executar o CI.
+   ├── .github/workflows                  
+     ├── cypress.yml                     # Arquivos do Github Actions para executar o CI.
    ├── cypress 
-   ├──README.md                          # Documentação do projeto
+   ├── README.md                         # Documentação do projeto
      ├── documentos                     
         ├── casos de testes              # documentação em pdf para criação de casos de testes. 
         ├── estratégia de testes         
