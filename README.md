@@ -96,7 +96,7 @@ git clone https://github.com/paulinrs/desafio_buildbox.git
 ```
 
 ## Instruções de execução 
-Use os comandos listados abaixo no terminal, diretamente na pasta raiz:
+Use o comando listado abaixo no terminal, diretamente na pasta raiz:
 
 `npx cypress open`
 
