@@ -1,5 +1,9 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/104467309/187524577-6dbd29ef-6bdc-4ed8-afcf-62f6642874aa.png" width="150">
+
 <h1 align="center">
-  Desafio Buildbox
+  Desafio Buildbox  
+
 </h1>
 
 O desafio é composto em duas etapas:
@@ -42,10 +46,10 @@ Os testes automatizados têm a função principal de verificar se o sistema est�
    ├── .github/workflows                  
      ├── cypress.yml                     # Arquivos do Github Actions para executar o CI.
    ├── cypress 
-   ├── README.md                         # Documentação do projeto
-     ├── documentos                     
+   ├── documentos                     
         ├── casos de testes              # documentação em pdf para criação de casos de testes. 
-        ├── estratégia de testes         
+        ├── estratégia de testes 
+   ├── README.md                         # Documentação do projeto        
      ├── fixtures            
         ├── imagens                      # imagem da CNH para massa de teste.
         ├── deliver.json                 # massa de teste para prencher dados para cadastrar usuário.
@@ -75,11 +79,12 @@ Podendo ser executado também manualmente no menu de Actions!<br/>
 
 ### [Cypress.io]( https://www.cypress.io/)
 
-O `CI` esta integrado com o `Cypress Dashboard` enviando os logs de resultado dos testes para armazenamento.<br/> 
+O `CI` esta integrado com o `Cypress Dashboard` enviando os logs resultado dos testes com `evidências ex: video e screenshots` para armazenamento.<br/> 
 
 ![Dashboard-Cypress](https://user-images.githubusercontent.com/104467309/187505227-7bab07ed-f142-452a-b4b5-99a748c2ad76.gif)
 
 ### Meu projeto no `Cypress.io`=> [Buger Eats](https://dashboard.cypress.io/projects/i7k1nx/runs/4/test-results?actions=%5B%5D&browsers=%5B%5D&groups=%5B%5D&isFlaky=%5B%5D&modificationDateRange=%7B%22startDate%22%3A%221970-01-01%22%2C%22endDate%22%3A%222038-01-19%22%7D&orderBy=EXECUTION_ORDER&oses=%5B%5D&specs=%5B%5D&statuses=%5B%7B%22value%22%3A%22PASSED%22%2C%22label%22%3A%22PASSED%22%7D%5D&testingTypesEnum=%5B%5D)
+
 
 ### Dependências para executar localmente
 
@@ -102,3 +107,43 @@ Use o comando listado abaixo no terminal, diretamente na pasta raiz:
 `npx cypress open`
 
 Depois da interface do Cypress aberta, executar o teste: `home_registration.spec.js`
+
+# <h1 align="center">Olá 👋🏻, eu sou o Paulo Roberto</h1>
+### 🌱 Atualmente estou no 2° período de *Análise E Desenvolvimento De Sistemas* e estou me aperfeiçoando em *Cypress, RobotFramework e Fundamentos de Testes.*
+### 📚 Apaixonado por Livros.
+### 💻 e por Tecnologia.
+
+
+<div align="center">
+<img align="leaft" alt="Gif" height="360" width="640" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/104467309/178572559-8f9a513e-d90b-4a3b-9c13-15dbf61fceb1.gif">
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinrs&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulinrs&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinrs&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinrs&theme=radical&hide_border=true"/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
+
+# 📫 Contato:
+  <a href="https://www.instagram.com/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulinn.rs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://twitter.com/paulin_rs/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  #
+  ![banner](https://github.com/professorjosedeassis/joseassis/blob/main/img/bannerpro.jpg?raw=true)
+  #
+          
+# Linguagens e ferramentas do meu dia a dia:
+
+ </h1> <img src="https://user-images.githubusercontent.com/104467309/180838262-55e35874-c94c-4d32-9cf3-3d5e18c8c7cd.gif" width="400px">  
+   </h1>
+<img src="https://user-images.githubusercontent.com/104467309/178513487-d1a267ff-4f00-4bf2-85f5-4eb27662bc24.gif" width="250px">
+
+  ##
+
+
+
+
+
+
+![Snake animation](https://github.com/paulinrs/paulinrs/blob/output/github-contribution-grid-snake.svg)
+
