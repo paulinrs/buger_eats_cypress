@@ -40,7 +40,8 @@ Os testes automatizados têm a função principal de verificar se o sistema est�
 ```ruby
    ├── .github                   
      ├── workflows                       # Arquivos do Github Actions para executar o CI.
-   ├── cypress              
+   ├── cypress 
+   ├──README.md                          # Documentação do projeto
      ├── documentos                     
         ├── casos de testes              # documentação em pdf para criação de casos de testes. 
         ├── estratégia de testes         
@@ -52,9 +53,8 @@ Os testes automatizados têm a função principal de verificar se o sistema est�
      ├── pages                          
         ├── SignupPage.js                # representa a pagina de cadastro.
     ├── cypress.json                     # configuração para a execução do cypress.
-    ├── package-lock.json           
-    ├── package.json  
-    └── README.md                        # Documentação do projeto
+    ├── package-lock.json            
+    └── package.json                        
 ```
 
  ![banner](https://user-images.githubusercontent.com/104467309/187461248-e66b4b2e-4afa-453d-a87a-1a66f81c1442.jpeg)
