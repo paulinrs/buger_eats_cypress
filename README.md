@@ -17,6 +17,7 @@ A estratégia de testes para o site Burger Eats é dividida em três etapas: pro
 Processos de documentação
 
 Nesta etapa vamos buscar o entendimento necessário para a criação da estratégia de teste, organização e documentação dos cenários.
+`Projeto em BDD utilizando o` => [mapa mental](https://www.mindmeister.com/map/2397110976)
 
 Testes manuais exploratório no site
 
@@ -46,7 +47,7 @@ Os testes automatizados têm a função principal de verificar se o sistema est�
         ├── casos de testes              # documentação em pdf para criação de casos de testes. 
         ├── estratégia de testes         
      ├── fixtures            
-        ├── imagens                      # imagem da CNH fake para massa de teste.
+        ├── imagens                      # imagem da CNH para massa de teste.
         ├── deliver.json                 # massa de teste para prencher dados para cadastrar usuário.
      ├── integration                        
         ├── home_registration.js         # Suite de teste para tela home e cadastro.      
