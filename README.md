@@ -69,7 +69,7 @@ Os testes automatizados têm a função principal de verificar se o sistema est�
 
  ![banner](https://user-images.githubusercontent.com/104467309/187461248-e66b4b2e-4afa-453d-a87a-1a66f81c1442.jpeg)
 
-### Por quê utilizar o Cypress
+### Por quê utilizar o Cypress?
 
 `Cypress` é um framework de testes, de código aberto e de fácil configuração.
 Totalmente baseado em uma nova arquitetura, isenta de outros frameworks de testes, o Cypress apresenta um painel próprio que exibe exatamente o que está acontecendo durante a execução dos testes. À medida que o script é escrito, é possível acompanhá-lo, o que auxilia o Analista de Testes (QA) na visualização de quais partes do código necessitam de ajustes.
