@@ -1,10 +1,15 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/104467309/187524577-6dbd29ef-6bdc-4ed8-afcf-62f6642874aa.png" width="150">
-
 <h1 align="center">
   Desafio Buildbox  
 
 </h1>
+
+</h1>
+<h1 align="center">
+  
+<img src="https://user-images.githubusercontent.com/104467309/187524577-6dbd29ef-6bdc-4ed8-afcf-62f6642874aa.png" width="250px">
+
+</h1>
+
 
 O desafio é composto em duas etapas:
 A primeira, tem como objetivo avaliar o planejamento na criação de casos
