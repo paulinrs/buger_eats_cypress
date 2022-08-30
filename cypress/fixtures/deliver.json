@@ -1,0 +1,77 @@
+{
+    "signup": {
+        "name": "Paulo Roberto dos Santos",
+        "cpf": "99999914141",
+        "email": "paulo@buildbox.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "26178140",
+            "street": "Rua Cedro",
+            "number": "7",
+            "details": "casa 2",
+            "district": "Vila Verde",
+            "city_state": "Belford Roxo/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh teste.jpg"
+    },
+    "cpf_inv": {
+        "name": "Arthur Ribeiro dos Santos",
+        "cpf": "x00000099AA",
+        "email": "arthur@buildbox.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "26178140",
+            "street": "Rua Cedro",
+            "number": "7",
+            "details": "casa 2",
+            "district": "Vila Verde",
+            "city_state": "Belford Roxo/RJ"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh teste.jpg"
+    },
+    "email_inv": {
+        "name": "Roberto José dos Santos",
+        "cpf": "99999914141",
+        "email": "roberto&buildbox.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "26178140",
+            "street": "Rua Cedro",
+            "number": "7",
+            "details": "casa 2",
+            "district": "Vila Verde",
+            "city_state": "Belford Roxo/RJ"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh teste.jpg"
+    },
+    "cep_inv": {
+        "name": "Angela Ribeiro",
+        "cpf": "99999914141",
+        "email": "angela@buildbox.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "2617814b",
+            "number": "7"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh teste.jpg"
+    },
+    "metodo_entraga": {
+        "name": "josilda simplicio dos Santos",
+        "cpf": "99999914141",
+        "email": "josilda@buildbox.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "26178140",
+            "street": "Rua Cedro",
+            "number": "7",
+            "details": "casa 2",
+            "district": "Vila Verde",
+            "city_state": "Belford Roxo/RJ"
+        },
+        "cnh": "cnh teste.jpg"
+    }
+ }
