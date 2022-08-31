@@ -26,7 +26,7 @@ A estratégia de testes para o site Burger Eats é dividida em três etapas: pro
 ## Processos de documentação
 
 Nesta etapa vamos buscar o entendimento necessário para a criação da estratégia de teste, organização e documentação dos cenários.
-`Projeto em BDD utilizando o` => [mapa mental](https://mm.tt/map/2397110976?t=WXpPUfFOUG) e `Casos de teste` => [Arquivos em PDF](https://github.com/paulinrs/desafio_buildbox/tree/main/documentos)
+`Projeto em BDD utilizando o` => [mapa mental](https://mm.tt/map/2397110976?t=WXpPUfFOUG) e `Casos de teste` => [Arquivos em PDF](https://github.com/paulinrs/desafio_buildbox/tree/main/documentos/Casos%20de%20testes)
 
 ## Testes manuais exploratório no site
 
