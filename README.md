@@ -15,7 +15,7 @@ O desafio é composto em duas etapas:
 A primeira, tem como objetivo avaliar o planejamento na criação de casos
 de testes.
 
-A segunda etapa tem como objetivo avaliar o na Automatização dos Testes.
+A segunda etapa tem como objetivo avaliar a Automatização dos Testes.
 
 <h1 align="center">
 Estratégia de testes para Buger Eats
