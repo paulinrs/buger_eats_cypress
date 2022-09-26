@@ -1,12 +1,12 @@
 <h1 align="center">
-  Desafio Buildbox  
+  Desafio Buger Eats
 
 </h1>
 
 </h1>
 <h1 align="center">
   
-<img src="https://user-images.githubusercontent.com/104467309/187524577-6dbd29ef-6bdc-4ed8-afcf-62f6642874aa.png" width="250px">
+<img src="https://user-images.githubusercontent.com/104467309/192338265-bdb0b8fa-3d67-4daa-bf1c-4b34d13d3f8f.jpeg" width="250px">
 
 </h1>
 
