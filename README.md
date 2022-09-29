@@ -3,14 +3,6 @@
 
 </h1>
 
-</h1>
-<h1 align="center">
-  
-<img src="https://user-images.githubusercontent.com/104467309/192338265-bdb0b8fa-3d67-4daa-bf1c-4b34d13d3f8f.jpeg" width="250px">
-
-</h1>
-
-
 O desafio é composto em duas etapas:
 A primeira, tem como objetivo avaliar o planejamento na criação de casos
 de testes.
