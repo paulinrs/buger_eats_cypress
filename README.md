@@ -1,3 +1,21 @@
+</h1>
+
+<img src="https://user-images.githubusercontent.com/104467309/188473729-68d7615b-64dd-4478-b44d-1484b4db4141.png" width="250px"> 
+
+</h1>
+
+<h1 align="center">
+
+  <img src="https://user-images.githubusercontent.com/104467309/193118227-21fdcc3b-a524-4a7f-b0d3-06351a09b28d.png" width="250px">
+  
+  </h1>
+  <h1 align="center">
+
+  <img src="https://user-images.githubusercontent.com/104467309/193118683-5eeb63fb-5d9e-4489-bf22-eb8fef30e430.png" width="550px">
+  
+  </h1>
+  
+
 <h1 align="center">
   Desafio Buger Eats
 
