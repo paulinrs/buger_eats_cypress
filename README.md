@@ -114,7 +114,7 @@ Executando o projeto
 
 > Clone o projeto
 ``` ruby
-git clone https://github.com/paulinrs/desafio_buildbox.git
+gh repo clone paulinrs/buger_eats_cypress
 ```
 
 ## Instruções de execução 
